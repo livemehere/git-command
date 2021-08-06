@@ -4,5 +4,5 @@
 
 ```bash
 git rm [filename] //local
-git rm --cached -r [filename] //remote 
+git rm --cached -r [filename] //remote  -r : 폴더 하위 모두삭제 (생략하면 특정파일)
 ```
